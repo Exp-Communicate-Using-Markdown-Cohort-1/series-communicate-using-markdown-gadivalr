@@ -4,12 +4,11 @@
 #### H4
 ##### H5
 ###### H6
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Avatar ](https://th.bing.com/th/id/OIG.82UDyx42WpZr8SI5.wpJ?w=270&h=270&c=6&r=0&o=5&pid=ImgGn) 
 
-```bash
-git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```python
+print("Hello World")
 ```
-- [ ] Terminar Loki
+- [x] Terminar Loki
 - [ ] Dormir
 - [ ] Comer
